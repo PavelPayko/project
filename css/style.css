@@ -1,0 +1,207 @@
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+.header_title_wrp {
+    float: left;
+}
+
+header {
+    width: 100%;
+    min-height: 323px;
+    background-color: #445162;
+    padding: 0 50px 0 50px;
+    box-sizing: border-box;
+}
+
+.Product_name {
+    font-size: 60px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.header_ul {
+    clear: both;
+    padding: 0;
+}
+
+.header_ul_list {
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #ffffff;
+    list-style-type: none;
+}
+
+.header_ul_list:before {
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 19px;
+    background-color: #445162;
+    background-image: url(/img/header_list_style.png);
+    margin: 0 10px;
+}
+
+.header_img {
+    width: 469px;
+    height: 214px;
+    background-color: #ffffff;
+    float: right;
+    margin: 50px 0 0 0;
+    display: block;
+}
+
+.header:after {
+    content: "";
+    width: 100%;
+    display: block;
+    clear: both;
+}
+
+.about_product {
+    width: 100%;
+    min-height: 345px;
+    padding: 0 50px 0 50px;
+    box-sizing: border-box;
+}
+
+.about_product_wrp {
+    float: left;
+    width: 650px;
+}
+
+.about_product_name {
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+    margin-top: 50px;
+}
+
+.about_product_content {
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+
+.about_product_img {
+    width: 430px;
+    height: 245px;
+    background-color: #445161;
+    float: right;
+    margin: 50px 0 0 0;
+}
+
+.about_product:after {
+    content: "";
+    width: 100%;
+    display: block;
+    clear: both;
+}
+
+.Dignity_and_pluses {
+    width: 100%;
+    background-color: #f5f5f5;
+    box-sizing: border-box;
+    clear: both;
+    border: 2px solid #f5f5f5;
+}
+
+.Dignity_and_pluses_name {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Dignity_and_pluses_ul {
+    padding: 0 40px 0 50px;
+    margin: 0;
+    min-height: 360px;
+    clear: both;
+}
+
+.Dignity_and_pluses_list {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+    list-style-type: none;
+    width: 570px;
+    float: left;
+    padding: 10px 20px 10px 0px;
+}
+
+.Dignity_and_pluses_list:before {
+    content: "";
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-color: #445161;
+    background-image: url(/img/Dignity_list_style.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+    margin: 0px 10px 50px 0px;
+}
+
+Dignity_and_pluses:after {
+    content: "";
+    width: 100%;
+    display: block;
+    clear: both;
+}
+
+.screenshots {
+    padding: 0 50px 0 50px;
+    box-sizing: border-box;
+}
+
+.screenshots_title {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+    text-align: center;
+}
+
+.screenshots_block {
+    width: 500px;
+    display: inline-block;
+    clear: both;
+    margin: 0 0 0 0;
+    width: 586px;
+}
+
+.screenshots_img {
+    width: 200px;
+    height: 150px;
+    background-color: #445161;
+    float: left;
+    margin: 15px 15px 15px 0;
+}
+
+.screenshots_name {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #445161;
+    margin: 10px 0 10px 0;
+}
+
+.screenshots_content {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+    margin: 0 0 0 0;
+}
