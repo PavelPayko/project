@@ -3,11 +3,9 @@
     margin: 0 auto;
     font-family: Arial;
 }
-
 .header_title_wrp {
     float: left;
 }
-
 header {
     width: 100%;
     background-color: #445162;
@@ -15,14 +13,12 @@ header {
     padding: 50px;
     box-sizing: border-box;
 }
-
 header:after {
     content: "";
     width: 100%;
     display: block;
     clear: both;
 }
-
 .Product_name {
     margin: 0;
     font-size: 60px;
@@ -30,12 +26,10 @@ header:after {
     font-weight: 400;
     color: #ffffff;
 }
-
 .header_ul {
     clear: both;
     padding: 0;
 }
-
 .header_ul_list {
     font-size: 20px;
     line-height: 36px;
@@ -43,7 +37,6 @@ header:after {
     color: #ffffff;
     list-style-type: none;
 }
-
 .header_ul_list:before {
     content: "";
     display: inline-block;
@@ -53,7 +46,6 @@ header:after {
     background-image: url(/img/header_list_style.png);
     margin: 0 10px;
 }
-
 .header_img {
     width: 469px;
     height: 214px;
@@ -62,7 +54,6 @@ header:after {
     margin: 50px 0 0 0;
     display: block;
 }
-
 .about_product {
     width: 100%;
     min-height: 345px;
@@ -70,12 +61,10 @@ header:after {
     padding: 50px;
     box-sizing: border-box;
 }
-
 .about_product_wrp {
     float: left;
     width: 650px;
 }
-
 .about_product_name {
     margin: 0;
     font-family: Arial;
@@ -85,7 +74,6 @@ header:after {
     color: #445161;
     margin-top: 50px;
 }
-
 .about_product_content {
     margin: 0;
     font-family: Arial;
@@ -94,7 +82,6 @@ header:after {
     font-weight: 400;
     color: #333333;
 }
-
 .about_product_img {
     width: 430px;
     height: 245px;
@@ -102,14 +89,12 @@ header:after {
     float: right;
     margin: 50px 0 0 0;
 }
-
 .about_product:after {
     content: "";
     width: 100%;
     display: block;
     clear: both;
 }
-
 .dignity_and_pluses {
     width: 100%;
     background-color: #f5f5f5;
@@ -122,7 +107,6 @@ header:after {
     display: block;
     clear: both;
 }
-
 .dignity_and_pluses_name {
     margin: 0 0 30px 0;
     font-size: 30px;
@@ -132,14 +116,12 @@ header:after {
     text-align: center;
 
 }
-
 .dignity_and_pluses_ul {
     padding: 0 40px 0 50px;
     margin: 0;
    /*  min-height: 360px; */
     clear: both;
 }
-
 .dignity_and_pluses_list {
     font-size: 16px;
     line-height: 24px;
@@ -150,7 +132,6 @@ header:after {
     float: left;
     margin: 10px 20px 10px 0px;
 }
-
 .dignity_and_pluses_list:before {
     content: "";
     display: inline-block;
@@ -163,21 +144,18 @@ header:after {
     float: left;
     margin: 0px 10px 50px 0px;
 }
-
 dignity_and_pluses:after {
     content: "";
     width: 100%;
     display: block;
     clear: both;
 }
-
 .screenshots {
     width: 100%;
     margin: 0;
     padding: 50px;
     box-sizing: border-box;
 }
-
 .screenshots_title {
     margin: 0;
     font-size: 30px;
@@ -186,14 +164,12 @@ dignity_and_pluses:after {
     color: #445161;
     text-align: center;
 }
-
 .screenshots_block {
     display: inline-block;
     clear: both;
     margin: 0 0 0 0;
     width: 586px;
 }
-
 .screenshots_img {
     margin: 0;
     width: 200px;
@@ -202,7 +178,6 @@ dignity_and_pluses:after {
     float: left;
     margin: 15px 15px 15px 0;
 }
-
 .screenshots_name {
     margin: 0;
     font-size: 24px;
@@ -211,7 +186,6 @@ dignity_and_pluses:after {
     color: #445161;
     margin: 10px 0 10px 0;
 }
-
 .screenshots_content {
     font-size: 16px;
     line-height: 24px;
@@ -219,21 +193,18 @@ dignity_and_pluses:after {
     color: #333333;
     margin: 0 0 0 0;
 }
-
 .reviews {
     width: 100%;
     background-color: #f5f5f5;
     margin: 0;
     padding: 50px;
 }
-
 .reviews:after {
     content: "";
     width: 100%;
     display: block;
     clear: both;
 }
-
 .reviews_name {
     margin: 0 0 30px 0;
     text-align: center;
@@ -242,20 +213,17 @@ dignity_and_pluses:after {
     font-weight: 400;
     color: #445161;
 }
-
 .reviews_block {
     width: 50%;
     float: left;
     margin: 0;
 }
-
 .reviews_content_wrp {
     width: 500px;
     background-color: lightgrey;
     margin: 0 0 20px 107px;
     border-radius: 5px;
 }
-
 .reviews_avatar {
     width: 75px;
     height: 75px;
@@ -263,19 +231,15 @@ dignity_and_pluses:after {
     background-color: #445161;
     float: left;
 }
-
 .reviews_content {
     background-color: lightgrey;
     padding: 15px;
     margin: 0
 }
-
 .reviews_content_1 {
 }
-
 .reviews_content_3 {
 }
-
 .reviews_footer {
     margin: 0;
     font-size: 14px;
@@ -284,13 +248,11 @@ dignity_and_pluses:after {
     color: #989898;
     padding: 0 15px 15px 15px;
 }
-
 .buy {
     width: 100%;
     margin: 0;
     padding: 50px;
 }
-
 .buy_name {
     margin: 0 0 30px 0;
     text-align: center;
@@ -299,38 +261,32 @@ dignity_and_pluses:after {
     font-weight: 400;
     color: #445161;
 }
-
 .buy:after {
     content: "";
     width: 100%;
     display: block;
     clear: both;
 }
-
 .buy_section {
     background-color: #445162;
     float: left;
     margin-right: 45px;
     border-radius: 2%;
 }
-
 .buy_section_standart {
     width: 300px;
     height: 306px;
     margin: 193px 45px 0 145px;
 }
-
 .buy_section_premium {
     width: 300px;
     height: 404px;
     margin-top: 95px;
 }
-
 .buy_section_lux {
     width: 300px;
     height: 499px;
 }
-
 .buy_section_name {
     font-size: 24px;
     line-height: 30px;
@@ -344,7 +300,6 @@ dignity_and_pluses:after {
     font-weight: 400;
     margin: 10px 0;
 }
-
 .buy_section_price {
     height: 71px;
     width: 100%;
@@ -360,18 +315,15 @@ dignity_and_pluses:after {
     padding: auto 0;
     padding-top: 20px
 }
-
 .buy_section_list {
     margin: 10px;
 }
-
 .buy_section_list_item {
     font-size: 14px;
     line-height: 24px;
     font-weight: 400;
     color: #ffffff;
 }
-
 .buy_section_btn {
     display: block;
     width: 260px;
@@ -389,11 +341,9 @@ dignity_and_pluses:after {
     text-transform: uppercase;
     border-radius: 5px;
 }
-
 .buy_section_btn:hover {
     border: 2px solid gray;
 }
-
 .buy_section_btn:active {
     border: none;
 }
